@@ -1,0 +1,23 @@
+.container {
+  background-color: grey;
+  margin-top: 40px;
+}
+#main {background-color: purple;
+}
+#HSC {
+  margin-top: 30px;
+}
+#SSC {
+  margin-top: 30px;
+}
+#JSC {
+  margin-top: 30px;
+}
+#cricket {
+  margin-top: 30px;
+}
+#Shuvo {
+  font-color: green;
+  font-size: 40px;
+  font-family: monospace;
+}
